@@ -6,6 +6,7 @@ export const siteConfig = {
   social: {
     email: "nakshatra.rajput@outlook.com",
     linkedin: "https://linkedin.com/in/Nakshatra-Rajput",
+    twitter: "https://x.com/SatyaNaaksh",
     github: "https://github.com/naksh-atra",
   },
   aboutMe:
