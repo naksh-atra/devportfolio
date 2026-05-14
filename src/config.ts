@@ -42,7 +42,7 @@ export const siteConfig = {
       name: "ResFit: Science-Validated Workout Engine",
       description:
         "Developed a B2B-ready REST API generating workout prescriptions validated against 2023-2025 research studies, achieving 95% relevance. Engineered smart caching with MongoDB TTL achieving 99.9% cache hit rate and <50ms latency.",
-      link: "https://github.com/naksh-atra",
+      link: "https://github.com/naksh-atra/fitapp-api",
       skills: ["FastAPI", "MongoDB", "REST", "Redis"],
     },
     {
