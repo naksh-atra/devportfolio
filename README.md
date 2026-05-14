@@ -1,4 +1,4 @@
-<img width="1943" height="1093" alt="image" src="https://github.com/user-attachments/assets/cc2ff955-17c2-48c7-81c8-479a0f061850" />
+//<img width="1943" height="1093" alt="image" src="https://github.com/user-attachments/assets/cc2ff955-17c2-48c7-81c8-479a0f061850" />
 
 # DevPortfolio Template
 
@@ -14,7 +14,7 @@ This template also comes with `CLAUDE.md` and `.cursor/rules` files for easy int
 
 ## Preview
 
-To view a live preview of the site, [click here](https://ryanfitzgerald.github.io/devportfolio/).
+To view a live preview of the site, [click here](https://github.com/naksh-atra/devportfolio.git).
 
 ## Built With
 
