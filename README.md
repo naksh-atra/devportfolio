@@ -13,6 +13,7 @@ This template also comes with `CLAUDE.md` and `.cursor/rules` files for easy int
 ## Preview
 
 To view a live preview of the site, [click here](https://github.com/naksh-atra/devportfolio.git).
+all credits to Ryan Fitzgerald (https://github.com/RyanFitzgerald/devportfolio)
 
 ## Built With
 
